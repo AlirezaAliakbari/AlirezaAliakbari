@@ -1,4 +1,6 @@
-### hey there 
+### hey there
+
+
 <a href="https://www.instagram.com/aliresa_alk/">
   <img align="left" alt="Alireza's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -12,7 +14,12 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<br />
+<br />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+know+machine+learning!;I+know+algorythms!;I+can+develop+with+many+tools!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 
 <br />
 
