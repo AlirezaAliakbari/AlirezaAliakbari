@@ -45,6 +45,7 @@ hi, my name is [Aliresa Aliakbari](https://aliresa_alk.netlify.app/), a passiona
 
 ```text
 Python        ██████████████████████
+qml           ███████████████████
 C             █████████████
 C++           █████████████████         
 Other         █████
